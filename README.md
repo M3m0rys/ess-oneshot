@@ -18,5 +18,5 @@ Allow the following ports:
 Run the installer like this:
 
 ```bash
-sudo SSH_PORT=2222 DOMAIN="example.com" PUBLIC_IP="203.0.113.10" LE_EMAIL="admin@example.com" ./install-ess.sh
+sudo SSH_PORT=2222 DOMAIN="example.com" PUBLIC_IP="256.256.256.256" LE_EMAIL="admin@example.com" ./install-ess.sh
 ```
